@@ -34,11 +34,6 @@ The **Remuneration Billing System** was developed as a modern web-based platform
 
 - **Role-Based Access Control (RBAC):** Distinct functional modules for Administrators, Teachers, and Accountants.
 
-### 🛠 Tech Stack
-
-- **Framework:** Laravel (PHP) – Utilizing MVC architecture for scalability and security.  
-- **Database:** MySQL – Relational database for efficient management of records.  
-- **Frontend:** Bootstrap & JavaScript (jQuery/AJAX) – Ensuring a responsive and interactive user interface.  
 
 
 ## 📊 System Design
@@ -62,6 +57,14 @@ To ensure the reliability of financial data, the system underwent a rigorous tes
 - **User Acceptance Testing (UAT):** The system was evaluated against real-world scenarios to ensure an intuitive interface for faculty and accounting staff.
 
 - **Boundary Value Analysis:** Focused on "Rate" and "Amount" fields to prevent mathematical overflows or incorrect billing cycles.
+
+
+
+## 🛠 Tech Stack
+
+- **Framework:** Laravel (PHP) – Utilizing MVC architecture for scalability and security.  
+- **Database:** MySQL – Relational database for efficient management of records.  
+- **Frontend:** Bootstrap & JavaScript (jQuery/AJAX) – Ensuring a responsive and interactive user interface.  
 
 
 ## ⚙️ Installation and Setup
